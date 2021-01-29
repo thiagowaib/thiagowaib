@@ -8,7 +8,7 @@
 # meu nome é Thiago. 
 ### e sim eu passei bastante tempo fazendo esse readme..
 <table align="center"><tr><td vlign="middle">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png" width=50 height=50 verticalAlign=middle/></td><td>Eu curto codar em React, mas procuro evoluir minhas habilidades tanto no front quando no backend.</td></tr><tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Neural_network.svg" width=50 height=50></td><td>  Além disso eu gosto de estudar e desenvolver aplicações de Data Science e Deep Learning.</td><tr><table>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png" width=50 height=30 verticalAlign=middle/></td><td>Eu curto codar em React, mas procuro evoluir minhas habilidades tanto no front quando no backend.</td></tr><tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Neural_network.svg" width=50 height=30></td><td>  Além disso eu gosto de estudar e desenvolver aplicações de Data Science e Deep Learning.</td><tr><table>
 
 ## Meu Tech Stack
 
@@ -62,7 +62,7 @@
 <table align="left"><tr><td>
 <a href="https://www.instagram.com/thiagowaib/">
     <img alt="Thiago Waib | Instagram" width="50px" 
-   height=50 src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg">
+   height=50 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
    </td><td>
 <img  alt="Thiago Waib | Gmail" width="50px" height=50 paddingLeft=50 src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></td></tr></table>
   </a>
