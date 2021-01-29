@@ -55,11 +55,11 @@
 </table>
 <br>
 
+<table align="center"><tr align="center"><td vlign="middle">
 ![Meus stats no GitHub](https://github-readme-stats.vercel.app/api?username=thiagowaib&show_icons=true&theme=radical)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagowaib&layout=compact&theme=radical)
-
-<table align="left"><tr><td>
+	</td></tr></table>
+<table align="center"><tr><td>
 <a href="https://www.instagram.com/thiagowaib/">
     <img alt="Thiago Waib | Instagram" width="50px" 
    height=50 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
