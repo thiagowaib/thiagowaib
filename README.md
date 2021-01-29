@@ -55,7 +55,7 @@
 </table>
 <br>
 
-<table align="center"><tr align="center" vlign="middle"><td>
+<table align="center"><tr align="center" valign="middle"><td>
 	
 ![Meus stats no GitHub](https://github-readme-stats.vercel.app/api?username=thiagowaib&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagowaib&layout=compact&theme=radical)
