@@ -8,7 +8,7 @@
 # meu nome é Thiago. 
 ### e sim eu passei bastante tempo fazendo esse readme..
 <table align="center"><tr><td vlign="middle">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png" width=125 height=50 verticalAlign=middle/></td><td>Eu curto codar em React, mas procuro evoluir minhas habilidades tanto no front quando no backend.</td></tr><tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Neural_network.svg" width=125 height=50></td><td>  Além disso eu gosto de estudar e desenvolver aplicações de Data Science e Deep Learning.</td><tr><table>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png" width=50 height=50 verticalAlign=middle/></td><td>Eu curto codar em React, mas procuro evoluir minhas habilidades tanto no front quando no backend.</td></tr><tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Neural_network.svg" width=50 height=50></td><td>  Além disso eu gosto de estudar e desenvolver aplicações de Data Science e Deep Learning.</td><tr><table>
 
 ## Meu Tech Stack
 
@@ -56,12 +56,13 @@
 <br>
 
 ![Meus stats no GitHub](https://github-readme-stats.vercel.app/api?username=thiagowaib&show_icons=true&theme=radical)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagowaib&layout=compact&theme=radical)
 
 <table align="left"><tr><td>
 <a href="https://www.instagram.com/thiagowaib/">
     <img alt="Thiago Waib | Instagram" width="50px" 
-   height=50 src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgaGVpZ2h0PSI1Ni43cHgiIGlkPSJMYXllcl8xIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1Ni43IDU2Ljc7IiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA1Ni43IDU2LjciIHdpZHRoPSI1Ni43cHgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxnPjxjaXJjbGUgY3g9IjI4LjEiIGN5PSIzMCIgcj0iNC40Ii8+PHBhdGggZD0iTTMzLjYsMTkuMmgtMTFjLTEuNiwwLTMsMC41LTMuOSwxLjRjLTAuOSwwLjktMS40LDIuMy0xLjQsMy45djExYzAsMS42LDAuNSwzLDEuNSw0YzEsMC45LDIuMywxLjQsMy45LDEuNGgxMC45ICAgYzEuNiwwLDMtMC41LDMuOS0xLjRjMS0wLjksMS41LTIuMywxLjUtMy45di0xMWMwLTEuNi0wLjUtMi45LTEuNC0zLjlDMzYuNiwxOS43LDM1LjMsMTkuMiwzMy42LDE5LjJ6IE0yOC4xLDM2LjggICBjLTMuOCwwLTYuOC0zLjEtNi44LTYuOGMwLTMuOCwzLjEtNi44LDYuOC02LjhTMzUsMjYuMiwzNSwzMEMzNSwzMy44LDMxLjksMzYuOCwyOC4xLDM2Ljh6IE0zNS4yLDI0LjVjLTAuOSwwLTEuNi0wLjctMS42LTEuNiAgIHMwLjctMS42LDEuNi0xLjZzMS42LDAuNywxLjYsMS42UzM2LjEsMjQuNSwzNS4yLDI0LjV6Ii8+PHBhdGggZD0iTTI4LjMsNS4yYy0xMy42LDAtMjQuNiwxMS0yNC42LDI0LjZjMCwxMy42LDExLDI0LjYsMjQuNiwyNC42YzEzLjYsMCwyNC42LTExLDI0LjYtMjQuNkM1MywxNi4yLDQxLjksNS4yLDI4LjMsNS4yeiAgICBNNDEuNCwzNS42YzAsMi4zLTAuOCw0LjMtMi4yLDUuN2MtMS40LDEuNC0zLjQsMi4xLTUuNiwyLjFIMjIuN2MtMi4yLDAtNC4yLTAuNy01LjYtMi4xYy0xLjUtMS40LTIuMi0zLjQtMi4yLTUuN3YtMTEgICBjMC00LjYsMy4xLTcuOCw3LjgtNy44aDExYzIuMywwLDQuMiwwLjgsNS42LDIuMmMxLjQsMS40LDIuMSwzLjMsMi4xLDUuNlYzNS42eiIvPjwvZz48L3N2Zz4=" /></a> <a href="mailto:thiagobranco@utfpr.edu.br">
+   height=50 src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg">
    </td><td>
-<img  alt="Thiago Waib | Gmail" width="50px" height=50 paddingLeft=50 src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgZGF0YS1uYW1lPSJMaXZlbGxvIDEiIGlkPSJMaXZlbGxvXzEiIHZpZXdCb3g9IjAgMCA2NiA2NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcz48c3R5bGU+LmNscy0xLC5jbHMtMntmaWxsOm5vbmU7c3Ryb2tlOiNmZmY7c3Ryb2tlLXdpZHRoOjJweDt9LmNscy0xe3N0cm9rZS1taXRlcmxpbWl0OjEwO30uY2xzLTJ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO308L3N0eWxlPjwvZGVmcz48dGl0bGUvPjxwYXRoIGQ9Ik0xLDMzQTMyLDMyLDAsMSwwLDMzLDEsMzIsMzIsMCwwLDAsMSwzM1oiLz48ZyBpZD0iTWFpbCI+PHJlY3QgY2xhc3M9ImNscy0xIiBoZWlnaHQ9IjI0LjE4IiByeD0iMS40OCIgcnk9IjEuNDgiIHdpZHRoPSIzMiIgeD0iMTciIHk9IjIxIi8+PHBhdGggY2xhc3M9ImNscy0yIiBkPSJNNDguNDQsMjEuODNMMzcuNTMsMzMuNTRhNi4yNyw2LjI3LDAsMCwxLTkuMDcsMGwtMTAuOS0xMS43Ii8+PGxpbmUgY2xhc3M9ImNscy0yIiB4MT0iMzkuMTkiIHgyPSI0OC4xNSIgeTE9IjMxLjc1IiB5Mj0iNDQuNTEiLz48bGluZSBjbGFzcz0iY2xzLTIiIHgxPSIyNi45OCIgeDI9IjE3LjciIHkxPSIzMS44OCIgeTI9IjQ0LjUxIi8+PC9nPjwvc3ZnPg=="/></td></tr></table>
+<img  alt="Thiago Waib | Gmail" width="50px" height=50 paddingLeft=50 src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></td></tr></table>
   </a>
