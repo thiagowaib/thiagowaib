@@ -55,7 +55,7 @@
 </table>
 <br>
 
-![Meus stats no GitHub](https://github-readme-stats.vercel.app/api?username=thiagowaib&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagowaib&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Meus stats no GitHub](https://github-readme-stats.vercel.app/api?username=thiagowaib&show_icons=true&theme=radical)<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagowaib&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <table align="left"><tr><td>
 <a href="https://www.instagram.com/thiagowaib/">
     <img alt="Thiago Waib | Instagram" width="30px" 
