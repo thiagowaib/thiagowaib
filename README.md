@@ -56,9 +56,11 @@
 <br>
 
 <table align="center"><tr align="center"><td vlign="middle">
+	
 ![Meus stats no GitHub](https://github-readme-stats.vercel.app/api?username=thiagowaib&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagowaib&layout=compact&theme=radical)
-	</td></tr></table>
+
+</td></tr></table>
 <table align="center"><tr><td>
 <a href="https://www.instagram.com/thiagowaib/">
     <img alt="Thiago Waib | Instagram" width="50px" 
