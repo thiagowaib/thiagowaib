@@ -62,8 +62,8 @@
 
 </td></tr></table>
 <table align="center"><tr><td>
-<a href="https://www.instagram.com/thiagowaib/">
+<a href="https://www.instagram.com/thiagowaib/" target="_blank">
     <img alt="Thiago Waib | Instagram" width="50px" 
 	 height=50 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"></a>
-   </td><td><a href="mailto:thiagobranco@alunos.utfpr.edu.br">
+   </td><td><a href="mailto:thiagobranco@alunos.utfpr.edu.br" target="_blank">
 <img  alt="Thiago Waib | Gmail" width="50px" height=50 paddingLeft=50 src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a></td></tr></table>
