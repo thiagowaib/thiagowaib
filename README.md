@@ -6,6 +6,7 @@
 
 # meu nome é Thiago. <br> e sim eu passei bastante tempo fazendo esse readme...
 #### Curto muito programar, já desenvolvi jogos em C# com Unity 3D, visualizações de dados e interpretação por Deep Learning em Python, mas atualmente invisto em aprender e desenvolver aplicações web, com enfoque em React e Node JS.
+<br>
 
 ## Meu Tech Stack
 
