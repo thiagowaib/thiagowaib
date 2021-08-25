@@ -50,28 +50,34 @@
 
   </tbody>
 </table>
-<br>
 
-<table align="center">
-	<tbody>
-		<tr align="center">
-			<td align="center" valign="middle">
+<div align="center">
+	
+![Snake animation](https://github.com/thiagowaib/thiagowaib/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+
+
+<div align="center">
 	
 ![Meus stats no GitHub](https://github-readme-stats.vercel.app/api?username=thiagowaib&show_icons=true&theme=radical)
-	
-			
+</div><div align="center">
 	
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagowaib&layout=compact&theme=radical)
-
-			
-<table align="center" border="none"><tr><td>
-<a href="https://www.instagram.com/thiagowaib/" target=_blank>
-    <img alt="Thiago Waib | Instagram" width="50px" 
-	 height=50 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"></a>
-   </td><td><a href="mailto:thiagowaib@gmail.com" target=_blank>
-<img  alt="Thiago Waib | Gmail" width="50px" height=50 paddingLeft=50 src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a></td>
-	<td><a href="https://www.linkedin.com/in/thiagowaib/" target=_blank>
-<img  alt="Thiago Waib | Linkedin" width="50px" height=50 paddingLeft=50 src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/></a></td></tr>
-</table>	
+</div>
 				
-![Snake animation](https://github.com/thiagowaib/thiagowaib/blob/output/github-contribution-grid-snake.svg)
+<div align="center" >
+<a href="https://www.instagram.com/thiagowaib/" target=_blank>
+<img alt="Thiago Waib | Instagram" width="50px" height=50 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"></a>
+&nbsp
+&nbsp
+&nbsp
+<a href="mailto:thiagowaib@gmail.com" target=_blank>
+<img  alt="Thiago Waib | Gmail" width="50px" height=50 src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
+&nbsp
+&nbsp
+&nbsp
+<a href="https://www.linkedin.com/in/thiagowaib/" target=_blank>
+<img  alt="Thiago Waib | Linkedin" width="50px" height=50 src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/></a>
+</div>
