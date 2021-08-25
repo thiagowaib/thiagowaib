@@ -72,6 +72,6 @@
 <img  alt="Thiago Waib | Gmail" width="50px" height=50 paddingLeft=50 src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a></td>
 	<td><a href="https://www.linkedin.com/in/thiagowaib/" target=_blank>
 <img  alt="Thiago Waib | Linkedin" width="50px" height=50 paddingLeft=50 src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/></a></td></tr>
-</table>
+</table>	
 				
 ![Snake animation](https://github.com/thiagowaib/thiagowaib/blob/output/github-contribution-grid-snake.svg)
