@@ -1,84 +1,33 @@
 # 👋🏻 Alô,
-<div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-</div>
+###Bem vindo ツ
 
-# meu nome é Thiago. <br> e sim eu passei bastante tempo fazendo esse readme...
-#### Curto muito programar, já desenvolvi jogos em C# com Unity 3D, visualizações de dados e interpretação por Deep Learning em Python, mas atualmente invisto em aprender e desenvolver aplicações web, com enfoque em React e Node JS.
-<br>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiagowaib/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thiagowaib@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-7f38c1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/thiagowaib/)
+[![Spotify](https://img.shields.io/badge/-Spotify-18ad0c?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/ysosuh5rfp286to7ngkaalisz?si=c5f1b8d48b594dde)
+[![Steam](https://img.shields.io/badge/-Steam-1a1a1a?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561198081140542/)
+##### Meu nome é Thiago, estudante de engenharia da computação e desenvolvedor 🚀
 
-## Meu Tech Stack
+<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50%" height="auto" align="right">
+<img  width="50%" src="https://github-readme-stats.vercel.app/api?username=thiagowaib&show_icons=true&theme=aura&include_all_commits=true&count_private=true">
+<img   width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagowaib&layout=compact&theme=aura">
 
-<table align="center">
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-	      <span><strong>JavaScript</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width=70 height=70>
-      </td>
-      <td width="25%" align="center">
-	      <span><strong>React</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=100 height=70>
-      </td>
-      <td width="25%" align="center">
-        <span><strong>HTML</strong></span><br><br><br>
-        <img src="https://cdn.svgporn.com/logos/html-5.svg" width=70 height=70>
-      </td>
-      <td width="25%" align="center">
-        <span><strong>CSS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg" width=70 height=70>
-      </td>
-     </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Python</strong></span><br><br><br>
-        <img width=70 height=70 src="https://camo.githubusercontent.com/888e388801f947dec7c3d843942c277af25fe2b1aed1821542c4e711f210312a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>C#</strong></span><br><br><br>
-        <img width=70 height=70 src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Git</strong></span><br><br><br>
-        <img width=70 height=70 src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Node JS</strong></span><br><br><br>
-        <img width=80 height=80 src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-      </td>
-    </tr>
 
-  </tbody>
-</table>
+#### 🌱 O que estou fazendo agora?
+* Desenvolvedor & Gerente na **[Unect Jr](https://unect.com.br "Unect Jr")**
+* Cursando Engenharia da Computação na UTFPR
+* Estudando Redes Neurais & Deep Learning
+* Fazendo projetos de desenv. Web e Mobile
+
+#### 🪐 Projetos recentes
+* **[Discord Bot - Osvaldo](https://github.com/thiagowaib/osvaldo "Discord Bot - Osvaldo")**
+* **[Android App - GasGuru](https://github.com/thiagowaib/gasguru "Android App - GasGuru)**
+
+#### ☄️ Meu Stack
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="6.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="6.5%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="6.5%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="6.5%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="6.5%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="6.5%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="6.5%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="6.5%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"  width="6.5%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="6.5%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="6.5%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="6.5%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="6.5%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="6.5%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="6.5%"/>
 
 <div align="center">
-	
+
 ![Snake animation](https://github.com/thiagowaib/thiagowaib/blob/output/github-contribution-grid-snake.svg)
 
-</div>
-
-
-
-<div align="center">
-	
-![Meus stats no GitHub](https://github-readme-stats.vercel.app/api?username=thiagowaib&show_icons=true&theme=radical)
-</div><div align="center">
-	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagowaib&layout=compact&theme=radical)
-</div>
-				
-<div align="center" >
-<a href="https://www.instagram.com/thiagowaib/" target=_blank>
-<img alt="Thiago Waib | Instagram" width="50px" height=50 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"></a>
-&nbsp
-&nbsp
-&nbsp
-<a href="mailto:thiagowaib@gmail.com" target=_blank>
-<img  alt="Thiago Waib | Gmail" width="50px" height=50 src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
-&nbsp
-&nbsp
-&nbsp
-<a href="https://www.linkedin.com/in/thiagowaib/" target=_blank>
-<img  alt="Thiago Waib | Linkedin" width="50px" height=50 src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/></a>
 </div>
