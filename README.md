@@ -19,11 +19,11 @@
 * Studying Neural Networks & Deep Learning
 * Developing Web and Mobile projects
 
-### 🪐 Projetos recentes
+### 🪐 Recent Projects
 * **[Discord Bot - Osvaldo](https://github.com/thiagowaib/osvaldo "Discord Bot - Osvaldo")**
 * **[Android App - GasGuru](https://github.com/thiagowaib/gasguru "Android App - GasGuru")**
 
-### ☄️ Meu Stack
+### ☄️ My Tech Stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="6%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="6%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="6%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="6%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="6%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="6%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="6%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"  width="6%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="6%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="6%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="6%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="6%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="6%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="6%"/><img src="https://img.icons8.com/fluency/50/000000/unity.png" width="6%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="6%"/>
 
 <div align="center">
