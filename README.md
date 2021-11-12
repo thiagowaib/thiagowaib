@@ -1,23 +1,23 @@
-# 👋🏻 Alô,
-### Bem vindo ツ
+# 👋🏻 Howdy,
+### Welcome to my profile ツ
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiagowaib/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thiagowaib@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-7f38c1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/thiagowaib/)
 [![Spotify](https://img.shields.io/badge/-Spotify-18ad0c?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/ysosuh5rfp286to7ngkaalisz?si=c5f1b8d48b594dde)
 [![Steam](https://img.shields.io/badge/-Steam-1a1a1a?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561198081140542/)
-## Meu nome é Thiago, estudante de engenharia da computação e desenvolvedor 🚀
+## My name is Thiago, i'm an computer engineering student and developer 🚀
 
 <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="47.50%" height="auto" align="right"/>
 <img  width="47.50%" src="https://github-readme-stats.vercel.app/api?username=thiagowaib&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
 <img   width="47.50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagowaib&layout=compact&theme=aura"/>
 
 
-### 🌱 O que estou fazendo agora?
-* Desenvolvedor & Gerente na **[Unect Jr](https://unect.com.br "Unect Jr")**
-* Cursando Engenharia da Computação na UTFPR
-* Estudando Redes Neurais & Deep Learning
-* Fazendo projetos de desenv. Web e Mobile
+### 🌱 What am I doing now?
+* Manager and Developer at **[Unect Jr](https://unect.com.br "Unect Jr")**
+* Working on graduating on Computer Engineering at UTFPR
+* Studying Neural Networks & Deep Learning
+* Developing Web and Mobile projects
 
 ### 🪐 Projetos recentes
 * **[Discord Bot - Osvaldo](https://github.com/thiagowaib/osvaldo "Discord Bot - Osvaldo")**
