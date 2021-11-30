@@ -16,10 +16,11 @@
 ### 🌱 What am I doing now?
 * Manager and Developer at **[Unect Jr](https://unect.com.br "Unect Jr")**
 * Working on graduating on Computer Engineering at UTFPR
-* Studying Neural Networks & Deep Learning
 * Developing Web and Mobile projects
 
 ### 🪐 Recent Projects
+* **[PWA - Duka](https://github.com/dangocan/duka "PWA - Duka")**
+* **[PWA - Passa ou Repassa](https://github.com/thiagowaib/passarepassa "PWA - Passa ou Repassa")**
 * **[Discord Bot - Osvaldo](https://github.com/thiagowaib/osvaldo "Discord Bot - Osvaldo")**
 * **[Android App - GasGuru](https://github.com/thiagowaib/gasguru "Android App - GasGuru")**
 
