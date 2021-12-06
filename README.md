@@ -1,11 +1,7 @@
 # 👋🏻 Howdy,
 ### Welcome to my profile ツ
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiagowaib/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thiagowaib@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-7f38c1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/thiagowaib/)
-[![Spotify](https://img.shields.io/badge/-Spotify-18ad0c?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/ysosuh5rfp286to7ngkaalisz?si=c5f1b8d48b594dde)
-[![Steam](https://img.shields.io/badge/-Steam-1a1a1a?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561198081140542/)
+<a href="https://www.linkedin.com/in/thiagowaib/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><img src="https://github.com/Dangocan/duka/blob/master/.github/Assets/Images/padding.png?raw=true" width="5px"><a href="mailto:thiagowaib@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"></a><img src="https://github.com/Dangocan/duka/blob/master/.github/Assets/Images/padding.png?raw=true" width="5px"><a href="https://www.instagram.com/thiagowaib/" target="_blank"><img src="https://img.shields.io/badge/-instagram-7f38c1?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><img src="https://github.com/Dangocan/duka/blob/master/.github/Assets/Images/padding.png?raw=true" width="5px"><a href="https://open.spotify.com/user/ysosuh5rfp286to7ngkaalisz?si=c5f1b8d48b594dde" target="_blank"><img src="https://img.shields.io/badge/-spotify-18ad0c?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a><img src="https://github.com/Dangocan/duka/blob/master/.github/Assets/Images/padding.png?raw=true" width="5px"><a href="https://steamcommunity.com/profiles/76561198081140542/" target="_blank"><img src="https://img.shields.io/badge/-steam-1a1a1a?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 ## My name is Thiago, i'm an computer engineering student and developer 🚀
 
 <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="47.50%" height="auto" align="right"/>
