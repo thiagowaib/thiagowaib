@@ -15,6 +15,7 @@
 * Developing Web and Mobile projects
 
 ### 🪐 Recent Projects
+* **[Desktop App - Code Tray](https://github.com/thiagowaib/code-tray "Desktop App - Code Tray")**
 * **[PWA - Duka](https://github.com/dangocan/duka "PWA - Duka")**
 * **[PWA - Passa ou Repassa](https://github.com/thiagowaib/passarepassa "PWA - Passa ou Repassa")**
 * **[Discord Bot - Osvaldo](https://github.com/thiagowaib/osvaldo "Discord Bot - Osvaldo")**
