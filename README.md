@@ -15,11 +15,10 @@
 * Developing Web and Mobile projects
 
 ### 🪐 Recent Projects
+* **[Desktop App - Verbum](https://github.com/thiagowaib/verbum "Desktop App - Verbum")**
 * **[Desktop App - Code Tray](https://github.com/thiagowaib/code-tray "Desktop App - Code Tray")**
 * **[PWA - Duka](https://github.com/dangocan/duka "PWA - Duka")**
 * **[PWA - Passa ou Repassa](https://github.com/thiagowaib/passarepassa "PWA - Passa ou Repassa")**
-* **[Discord Bot - Osvaldo](https://github.com/thiagowaib/osvaldo "Discord Bot - Osvaldo")**
-* **[Android App - GasGuru](https://github.com/thiagowaib/gasguru "Android App - GasGuru")**
 
 ### ☄️ My Tech Stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="5.8%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="5.8%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="5.8%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="5.8%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="5.8%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="5.8%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="5.8%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="5.8%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"  width="5.8%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="5.8%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="5.8%"/><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" width="5.8%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="5.8%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="5.8%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="5.8%"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="5.8%"/><img src="https://img.icons8.com/fluency/50/000000/unity.png" width="5.8%"/>
