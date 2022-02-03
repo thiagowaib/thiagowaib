@@ -15,6 +15,7 @@
 * Developing Web and Mobile projects
 
 ### 🪐 Recent Projects
+* **[Face Recognition with Js ](https://github.com/thiagowaib/code-compendium/tree/main/face-cv "Face Recognition with Js ")**
 * **[PWA - Gibberich](https://github.com/thiagowaib/gibberich "PWA - Gibberich")**
 * **[Desktop App - Verbum](https://github.com/thiagowaib/verbum "Desktop App - Verbum")**
 * **[Desktop App - Code Tray](https://github.com/thiagowaib/code-tray "Desktop App - Code Tray")**
