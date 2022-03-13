@@ -15,6 +15,8 @@
 * Developing Web and Mobile projects
 
 ### 🪐 Recent Projects
+* **[QR Code Generator ](https://github.com/thiagowaib/code-compendium/tree/main/qrcode-gen "QR Code Generator ")**
+* **[Youtube Downloader ](https://github.com/thiagowaib/code-compendium/tree/main/yt-download "Youtube Downloader ")**
 * **[Flock Simulation ](https://github.com/thiagowaib/code-compendium/tree/main/boid-sim "Flock Simulation ")**
 * **[Face Recognition with Js ](https://github.com/thiagowaib/code-compendium/tree/main/face-cv "Face Recognition with Js ")**
 * **[PWA - Gibberich](https://github.com/thiagowaib/gibberich "PWA - Gibberich")**
