@@ -11,6 +11,7 @@
 
 ### 🌱 What am I doing now?
 * Manager and Developer at **[Unect Jr](https://unect.com.br "Unect Jr")**
+* Producing content on **[Medium](https://medium.com/@thiagowaib "Medium")**
 * Working on graduating on Computer Engineering at UTFPR
 * Developing Web and Mobile projects
 
