@@ -10,10 +10,9 @@
 
 
 ### 🌱 What am I doing now?
-* Manager and Developer at **[Unect Jr](https://unect.com.br "Unect Jr")**
 * Producing content on **[Medium](https://medium.com/@thiagowaib "Medium")**
-* Working on graduating on Computer Engineering at UTFPR
-* Developing Web and Mobile projects
+* Getting my bachelor's degree in Information Systems at Univem
+* Developing Web and Mobile projects... as always ;D
 
 ### 🪐 Recent Projects
 * **[QR Code Generator ](https://github.com/thiagowaib/code-compendium/tree/main/qrcode-gen "QR Code Generator ")**
