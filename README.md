@@ -15,6 +15,7 @@
 * Developing Web and Mobile projects... as always ;D
 
 ### 🪐 Recent Projects
+* **[YtGo ](https://github.com/thiagowaib/ytgo#readme "YtGo ")**
 * **[ChatAway ](https://github.com/thiagowaib/chataway#readme "ChatAway ")**
 * **[QR Code Generator ](https://github.com/thiagowaib/code-compendium/tree/main/qrcode-gen "QR Code Generator ")**
 * **[Youtube Downloader ](https://github.com/thiagowaib/code-compendium/tree/main/yt-download "Youtube Downloader ")**
