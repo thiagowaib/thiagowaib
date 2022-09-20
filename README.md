@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="47.50%" height="auto" align="right"/>
 <img  width="47.50%" src="https://github-readme-stats.vercel.app/api?username=thiagowaib&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-<img   width="47.50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagowaib&layout=compact&theme=aura"/>
+<img   width="47.50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagowaib&langs_count=8&layout=compact&theme=aura"/>
 
 
 ### 🌱 What am I doing now?
