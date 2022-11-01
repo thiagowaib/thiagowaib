@@ -15,6 +15,7 @@
 * Developing Web and Mobile projects... as always ;D
 
 ### 🪐 Recent Projects
+* **[Salão de Beleza da Leila ](https://github.com/thiagowaib/salao-leila#readme "Salão de Beleza da Leila ")**
 * **[YtNet - Youtube Downloader ](https://github.com/thiagowaib/ytnet#readme "YtNet - Youtube Downloader ")**
 * **[ChatAway ](https://github.com/thiagowaib/chataway#readme "ChatAway ")**
 * **[QR Code Generator ](https://github.com/thiagowaib/code-compendium/tree/main/qrcode-gen "QR Code Generator ")**
