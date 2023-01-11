@@ -10,16 +10,15 @@
 
 
 ### 🌱 What am I doing now?
-* Producing content on **[Medium](https://medium.com/@thiagowaib "Medium")**
+* Working as a developer at **[DSIN](https://www.dsin.com.br "DSIN")**
 * Getting my bachelor's degree in Information Systems at Univem
 * Developing Web and Mobile projects... as always ;D
 
 ### 🪐 Recent Projects
+* **[Mercury ](https://github.com/thiagowaib/mercury#readme "Mercury ")**
 * **[Salão de Beleza da Leila ](https://github.com/thiagowaib/salao-leila#readme "Salão de Beleza da Leila ")**
-* **[YtNet - Youtube Downloader ](https://github.com/thiagowaib/ytnet#readme "YtNet - Youtube Downloader ")**
 * **[ChatAway ](https://github.com/thiagowaib/chataway#readme "ChatAway ")**
 * **[QR Code Generator ](https://github.com/thiagowaib/code-compendium/tree/main/qrcode-gen "QR Code Generator ")**
-* **[Youtube Downloader ](https://github.com/thiagowaib/code-compendium/tree/main/yt-download "Youtube Downloader ")**
 * **[Flock Simulation ](https://github.com/thiagowaib/code-compendium/tree/main/boid-sim "Flock Simulation ")**
 * **[Face Recognition with Js ](https://github.com/thiagowaib/code-compendium/tree/main/face-cv "Face Recognition with Js ")**
 
