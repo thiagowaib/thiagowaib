@@ -15,6 +15,7 @@
 * Engineering Web and Mobile projects... as always ;D
 
 ### 🪐 Recent Projects
+* **[Dashboard | Cuidadores das Águas ](https://github.com/thiagowaib/gda-dashboard "Dashboard | Cuidadores das Águas")**
 * **[Mercury ](https://github.com/thiagowaib/mercury#readme "Mercury ")**
 * **[Salão de Beleza da Leila ](https://github.com/thiagowaib/salao-leila#readme "Salão de Beleza da Leila ")**
 * **[ChatAway ](https://github.com/thiagowaib/chataway#readme "ChatAway ")**
