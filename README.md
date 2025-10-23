@@ -15,11 +15,10 @@
 * Engineering Web and Mobile projects... as always ;D
 
 ### 🪐 Recent Projects
+* **[API | Recipy ](https://github.com/thiagowaib/recipy "API | Recipy")**
 * **[Dashboard | Cuidadores das Águas ](https://github.com/thiagowaib/gda-dashboard "Dashboard | Cuidadores das Águas")**
 * **[Mercury ](https://github.com/thiagowaib/mercury#readme "Mercury ")**
 * **[Salão de Beleza da Leila ](https://github.com/thiagowaib/salao-leila#readme "Salão de Beleza da Leila ")**
-* **[ChatAway ](https://github.com/thiagowaib/chataway#readme "ChatAway ")**
-* **[QR Code Generator ](https://github.com/thiagowaib/code-compendium/tree/main/qrcode-gen "QR Code Generator ")**
 * **[Flock Simulation ](https://github.com/thiagowaib/code-compendium/tree/main/boid-sim "Flock Simulation ")**
 * **[Face Recognition with Js ](https://github.com/thiagowaib/code-compendium/tree/main/face-cv "Face Recognition with Js ")**
 
